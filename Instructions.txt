@@ -1,0 +1,7 @@
+To enable the firewall, run 8006A1FireWall.sh with the following command:
+
+	sh 8006A1FireWall.sh
+
+Another .sh file named resetTables.sh, has also been included to restore your default firewall settings. Run resetTables.sh with the following command:
+
+	sh resetTables.sh
